@@ -1,4 +1,5 @@
 ## База данных
+![bd](https://github.com/ovalentinka/Data_analyst/blob/02637d04843ceffe28d0538b4c287128a376f325/sql_border2880_1628581406.png)
 
 ### acquisition
 Содержит информацию о покупках одних компаний другими.
