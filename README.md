@@ -14,7 +14,7 @@
 - Машинное обучение: библиотеки scikit-learn, XGBoost
 
 ## Программа обучения:
-![-](/program.png)
+![-](https://github.com/ovalentinka/Data_analyst/blob/be6663a961ed1bd26a89ce2832cc5e280c711f56/diplom.PNG)
 
 ## Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
