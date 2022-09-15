@@ -5,13 +5,13 @@
 
 ## Основные инструменты и навыки, полученные при обучении:
 - Языки: Python, SQL
-- Анализ данных: библиотеки pandas, numpy, scipy, statsmodels
-- Визуализация: matplotlib, plotly, seaborn
+- Анализ данных: библиотеки Pandas, NumPy, SciPy, Statsmodels
+- Визуализация: Matplotlib, Plotly, Seaborn
 - Построение дашбордов: Tableau
 - Метрики юнит-экономики, когортный анализ
 - А/В-тестирование
 - Работа с гипотезами
-- Машинное обучение: библиотеки scikit-learn, XGBoost
+- Машинное обучение: библиотеки Scikit-learn, XGBoost
 
 ## Программа обучения:
 ![-](https://github.com/ovalentinka/Data_analyst/blob/be6663a961ed1bd26a89ce2832cc5e280c711f56/diplom.PNG)
